@@ -25,3 +25,5 @@ yarn-error.log*
 .prettierrc
 package-lock.json
 package.json
+.vscode/c_cpp_properties.json
+.vscode/settings.json
